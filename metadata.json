@@ -1,0 +1,6 @@
+{
+  "name": "智能慢性病健康监管仪",
+  "description": "一款融合实时生理体征模拟、多账户管理、历史数据追踪、智能警报和AI健康评估的慢性病健康监管仪。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
